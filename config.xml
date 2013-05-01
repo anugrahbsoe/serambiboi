@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "id.or.blankonlinux.serambi"
+        versionCode="1" 
+        version   = "1.0.0">
+
+    <name>Serambi Blankon</name>
+
+    <description>
+        Serambi Developer Blankon. 
+    </description>
+
+    <author href="http://princeofgiri.com" email="me@princeofgiri.com">
+        Ahmad Haris
+    </author>
+
+    <preference name="phonegap-version" value="2.0.0" />
+
+    <icon src="icons/Feed_128x128.png" />
+
+    <gap:plugin name="ChildBrowser" />
+
+</widget>
