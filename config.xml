@@ -17,7 +17,7 @@
 
     <preference name="phonegap-version" value="2.0.0" />
 
-    <icon src="icons/Feed_128x128.png" />
+    <icon src="icons/logo_boi.png" />
 
     <gap:plugin name="ChildBrowser" />
 
